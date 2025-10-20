@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://www.votrecabinetdentaire.fr/sitemap.xml
+
+# Allow CSS and JS
+Allow: /css/
+Allow: /js/
+Allow: /images/
+
+# Disallow admin areas (si applicable)
+Disallow: /admin/
+Disallow: /private/
