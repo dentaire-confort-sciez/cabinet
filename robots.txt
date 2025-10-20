@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://www.votrecabinetdentaire.fr/sitemap.xml
+Sitemap: https://dentaire-confort-sciez.github.io/cabinet/sitemap.xml
 
 # Allow CSS and JS
 Allow: /css/
@@ -11,4 +11,5 @@ Allow: /images/
 
 # Disallow admin areas (si applicable)
 Disallow: /admin/
+
 Disallow: /private/
